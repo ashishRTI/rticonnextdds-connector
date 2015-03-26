@@ -52,7 +52,7 @@ We have documentation on how to access the data sample fields in Section 6.4 'Da
 [RTI Prototyper Getting Started Guide](https://community.rti.com/rti-doc/510/ndds.5.1.0/doc/pdf/RTI_CoreLibrariesAndUtilities_Prototyper_GettingStarted.pdf)  
 
 ### Getting started with nodejs
-Be sure you have all the tools to work with nodejs. Then invoke:
+Be sure you have all the tools to work with nodejs ([see install nodejs](https://nodejs.org/)). Then invoke:
 
 ``` bash
 $ npm install rticonnextdds-connector
